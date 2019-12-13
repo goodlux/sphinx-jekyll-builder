@@ -61,7 +61,7 @@ Build jekyll files with `sphinx-build` command
 
 ```sh
 cd docs
-sphinx-build -M jekyll ./ build
+sphinx-build -b jekyll ./ build
 ```
 
 
